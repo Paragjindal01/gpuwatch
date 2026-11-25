@@ -1,6 +1,8 @@
 # GPUWatch
 
-[Conceptual cover artwork](../artwork/gpuwatch.webp)
+> This case study documents the integrated portfolio build. Use the [standalone README](../../README.md#run-independently) for this repository’s entry point and test commands.
+
+[Conceptual cover artwork](../artwork.webp)
 
 GPUWatch is a portfolio MVP for inspecting a synthetic GPU fleet. Four servers provide individual GPU metrics, while system CPU, memory and power are attributed to the host. A scenario changes workload and cooling conditions, and the per-GPU table shows threshold breaches.
 
